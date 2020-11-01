@@ -1,0 +1,41 @@
+#marco {
+	padding: 10px; 
+	background-color: #F26700; 
+	border-radius: 15px; 
+	position: relative; 
+	margin: 0px auto;
+	top: -80px; 
+	width: 68%;
+}
+
+#marco .form1 {
+	padding: 20px; 
+	background-color: #0A364D; 
+	border-radius: 15px;
+}
+
+#marco .btnbuscar {
+	background-color: #FCC601FF; 
+	border-radius: 15px;
+	color: #000;
+	padding: 8px; 
+	margin: 8px 8px; 
+	width: 100%;
+}
+
+.control_formu {
+	padding: 2px 10px; 
+	border-radius: 20px; 
+	margin: 8px 8px; 
+	width: 100%;
+}
+
+.ctrl_select {
+	height: 38px;
+}
+
+.resorts {
+	position: relative; 
+	margin: 0px auto;
+	top: -50px;
+}
